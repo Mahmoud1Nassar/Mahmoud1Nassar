@@ -1,6 +1,6 @@
-# Hi, I'm Mahmoud Nassar! 👋  
-**ASP.NET Developer | Full Stack Engineer**  
+# Hi, I'm Mahmoud Nassar! 👋   
 I'm passionate about building efficient, scalable web applications using ASP.NET Core, React, and SQL Server.
+
 ![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud1Nassar&show_icons=true&theme=radical)
 ### Tech Stack:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
